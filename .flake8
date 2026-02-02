@@ -8,3 +8,9 @@ exclude =
     **migrations
     venv
     tests
+    .venv,
+    venv,
+    */migrations/*,
+    */settings.py,
+    __pycache__,
+    .git
